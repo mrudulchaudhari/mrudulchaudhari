@@ -36,7 +36,7 @@ I'm a passionate developer with a keen interest in Algorithms and Data Structure
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40"/>
   </a>
   <a href="https://leetcode.com/u/mrudulchaudhari/">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Online/leet-code.svg" alt="LeetCode" width="40" height="40"/>
+    <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-192x192.png" alt="LeetCode" width="40" height="40"/>
   </a>
 </p>
 
