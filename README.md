@@ -9,12 +9,17 @@ I'm a passionate developer with a keen interest in Algorithms and Data Structure
 - 🎯 2024 Goals: Contribute more to Open Source projects
 
 ## 🛠 Skills
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Data Structures](https://img.shields.io/badge/Data_Structures-FF6B6B?style=for-the-badge&logo=treehouse&logoColor=white)
-![Algorithms](https://img.shields.io/badge/Algorithms-0081CB?style=for-the-badge&logo=codewars&logoColor=white)
-![Data Science](https://img.shields.io/badge/Data_Science-3498DB?style=for-the-badge&logo=anaconda&logoColor=white)
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
+</p>
 
 ## 📊 GitHub Stats
 ![Mrudul's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrudulchaudhari&show_icons=true&theme=radical)
@@ -23,15 +28,17 @@ I'm a passionate developer with a keen interest in Algorithms and Data Structure
 ![LeetCode Stats](https://leetcode.card.workers.dev/mrudulchaudhari?theme=dark&font=baloo&extension=activity)
 
 ## 🤝 Connect with me
-<a href="https://www.linkedin.com/in/mrudulchaudhari/">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
-</a>
-<a href="https://www.instagram.com/mrudulite/">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40"/>
-</a>
-<a href="https://leetcode.com/u/mrudulchaudhari/">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Online/leetcode.svg" alt="LeetCode" width="40" height="40"/>
-</a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/mrudulchaudhari/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="https://www.instagram.com/mrudulite/">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40"/>
+  </a>
+  <a href="https://leetcode.com/u/mrudulchaudhari/">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Online/leet-code.svg" alt="LeetCode" width="40" height="40"/>
+  </a>
+</p>
 
 ## 📫 How to reach me
 Feel free to reach out for collaborations or just a friendly chat!
