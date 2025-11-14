@@ -4,9 +4,9 @@
 I'm a passionate developer with a keen interest in Algorithms and Data Structures. Currently exploring the exciting world of Data Science!
 
 - 🔭 I'm currently working on enhancing my problem-solving skills
-- 🌱 I'm learning advanced Data Structures and Data Science techniques
+- 🌱 I'm learning advanced Data Structures and Machine Learning algorithms
 - 💡 I love to tackle complex algorithmic challenges
-- 🎯 2024 Goals: Contribute more to Open Source projects
+- 🎯 2025 Goals: Learn as much as I can
 
 ## 🛠 Skills
 <p align="left">
