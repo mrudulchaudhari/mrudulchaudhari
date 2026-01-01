@@ -21,12 +21,12 @@ class MrudulChaudhari:
         self.username = "mrudulchaudhari"
         self.name = "Mrudul Chaudhari"
         self.role = "Full Stack Developer & Data Science Enthusiast"
-        self.location = "Narnaund, Haryana, India 🇮🇳"
+        self.college = "Ramdeobaba College of Engineering and Management, Nagpur"
+        self.location = "Nagpur, Maharashtra, India"
         self.education = "Pursuing Excellence in Computer Science"
         self.passions = [
             "🧠 Algorithms & Data Structures",
             "🤖 Machine Learning & AI",
-            "📊 Data Science & Analytics",
             "🌐 Web Development",
             "🎯 Problem Solving"
         ]
