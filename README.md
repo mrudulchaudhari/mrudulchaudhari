@@ -14,7 +14,6 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> About Me
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 ```python
 class MrudulChaudhari:
@@ -44,6 +43,7 @@ class MrudulChaudhari:
 me = MrudulChaudhari()
 print(me.say_hi())
 ```
+
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
@@ -76,7 +76,9 @@ print(me.say_hi())
 ### ⚙️ Backend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ndjango,flask,rest" />
+  <img src="https://skillicons.dev/icons?i=django,flask" />
+  <img height="48" width="48" src="https://cdn.simpleicons.org/fastapi/009688" alt="FastAPI" title="FastAPI"/>
+  <img height="48" width="48" src="https://cdn.simpleicons.org/postman/FF6C37" alt="REST API" title="REST API"/>
 </p>
 
 ### 🗄️ Databases & Cloud
@@ -89,9 +91,10 @@ print(me.say_hi())
 
 <p>
   <img src="https://skillicons.dev/icons?i=tensorflow" />
-  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas"/>
-  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy"/>
-  <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn"/>
+  <img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas"/>
+  <img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy"/>
+  <img height="48" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn"/>
+  <img height="48" width="48" src="https://cdn.simpleicons.org/jupyter/F37626" alt="Jupyter" title="Jupyter"/>
 </p>
 
 ### 🛠️ Tools & Platforms
@@ -147,21 +150,49 @@ print(me.say_hi())
     <td align="center" width="50%">
       <h3>🎯 Coding Platforms</h3>
       <br/>
-      <a href="https://leetcode.com/mrudulchaudhari" target="_blank">
-        <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-      </a>
-      <br/><br/>
-      <a href="https://www.codechef.com/users/mrudulchaudhari" target="_blank">
-        <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
-      </a>
-      <br/><br/>
-      <a href="https://www.hackerrank.com/mrudulchaudhari" target="_blank">
-        <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/>
-      </a>
-      <br/><br/>
-      <a href="https://codeforces.com/profile/mrudulchaudhari" target="_blank">
-        <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
-      </a>
+      <table>
+        <tr>
+          <td align="center">
+            <a href="https://leetcode.com/mrudulchaudhari" target="_blank">
+              <img src="https://cdn.simpleicons.org/leetcode/FFA116" alt="LeetCode" width="50" height="50"/>
+              <br/>
+              <sub><b>LeetCode</b></sub>
+            </a>
+          </td>
+          <td align="center">
+            <a href="https://www.codechef.com/users/mrudulchaudhari" target="_blank">
+              <img src="https://cdn.simpleicons.org/codechef/5B4638" alt="CodeChef" width="50" height="50"/>
+              <br/>
+              <sub><b>CodeChef</b></sub>
+            </a>
+          </td>
+        </tr>
+        <tr>
+          <td align="center">
+            <a href="https://www.hackerrank.com/mrudulchaudhari" target="_blank">
+              <img src="https://cdn.simpleicons.org/hackerrank/00EA64" alt="HackerRank" width="50" height="50"/>
+              <br/>
+              <sub><b>HackerRank</b></sub>
+            </a>
+          </td>
+          <td align="center">
+            <a href="https://codeforces.com/profile/mrudulchaudhari" target="_blank">
+              <img src="https://cdn.simpleicons.org/codeforces/1F8ACB" alt="Codeforces" width="50" height="50"/>
+              <br/>
+              <sub><b>Codeforces</b></sub>
+            </a>
+          </td>
+        </tr>
+        <tr>
+          <td align="center" colspan="2">
+            <a href="https://www.geeksforgeeks.org/user/mrudulchaudhari" target="_blank">
+              <img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" alt="GeeksforGeeks" width="50" height="50"/>
+              <br/>
+              <sub><b>GeeksforGeeks</b></sub>
+            </a>
+          </td>
+        </tr>
+      </table>
     </td>
   </tr>
 </table>
@@ -172,19 +203,6 @@ print(me.say_hi())
 
 <br/>
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> GitHub Trophies
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mrudulchaudhari&theme=radical&no-frame=true&no-bg=false&margin-w=10&margin-h=10&column=7&title=MultiLanguage,Commits,PullRequest,Reviews,Issues,Repositories,Stars" alt="GitHub Trophies"/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-</div>
-
-<br/>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" alt="Phone" width="35" /> Connect With Me
 
@@ -299,7 +317,7 @@ print(me.say_hi())
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="Footer"/>
 </div>
 
 <div align="center">
