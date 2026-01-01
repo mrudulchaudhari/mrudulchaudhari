@@ -227,14 +227,6 @@ print(me.say_hi())
 <a href="https://github.com/mrudulchaudhari" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&style=flat-square" height="40" alt="GitHub"/>
 </a>
-&nbsp;&nbsp;
-<a href="https://yourportfolio.com" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&style=flat-square" height="40" alt="Portfolio"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://discord.com/users/yourdiscordid" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&style=flat-square" height="40" alt="Discord"/>
-</a>
 
 <br/><br/>
 
