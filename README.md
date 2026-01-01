@@ -77,7 +77,7 @@ print(me.say_hi())
 
 <p>
   <img src="https://skillicons.dev/icons?i=django,flask" />
-  <img height="48" width="48" src="https://cdn.simpleicons.org/fastapi/009688" alt="FastAPI" title="FastAPI"/>
+  
   <img height="48" width="48" src="https://cdn.simpleicons.org/postman/FF6C37" alt="REST API" title="REST API"/>
 </p>
 
